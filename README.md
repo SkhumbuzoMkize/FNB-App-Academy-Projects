@@ -20,10 +20,6 @@ A static web app displaying a gallery of Avengers characters. Each character has
 - HTML5
 - CSS3
 
-📸 *Screenshots:*
-![Superhero Gallery](images/avengers_01.jpg)
-
----
 
 ### 🐾 Pine City Zoo App
 
